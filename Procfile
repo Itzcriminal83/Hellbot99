@@ -1,1 +1,1 @@
-web: python hellbot.py
+web: python Hellbot
